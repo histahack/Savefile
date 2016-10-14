@@ -1,0 +1,17 @@
+{
+  "client": {
+    "alpha": "http://github.com/histahack/client/archive/a0.0.0.zip",
+    "beta": "http://github.com/histahack/client/archive/b0.0.0.zip",
+    "release": "http://github.com/histahack/client/archive/0.0.0.zip"
+  }
+  "server": {
+    "alpha": "http://github.com/histahack/server/archive/a0.0.0.zip",
+    "beta": "http://github.com/histahack/server/archive/b0.0.0.zip",
+    "release": "http://github.com/histahack/server/archive/0.0.0.zip"
+  }
+  "savefile": {
+    "alpha": "http://github.com/histahack/savefile/archive/a0.0.0.zip",
+    "beta": "http://github.com/histahack/savefile/archive/b0.0.0.zip",
+    "release": "http://github.com/histahack/savefile/archive/0.0.0.zip"
+  }
+}
